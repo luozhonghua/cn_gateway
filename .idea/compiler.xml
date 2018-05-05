@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="clientdemo" />
+        <module name="demogate" />
+        <module name="distributedlock" />
+        <module name="dubbo-provider" />
+        <module name="gate-agent" />
+        <module name="gate-common" />
+        <module name="gate-demo-client" />
+        <module name="gate-demo-provider" />
+        <module name="gate-eureka" />
+        <module name="gateagent" />
+        <module name="gatecommon" />
+        <module name="gateeureka" />
+        <module name="gateway-web" />
+        <module name="gatewayweb" />
+        <module name="netty-all" />
+        <module name="netty-buffer" />
+        <module name="netty-codec" />
+        <module name="netty-codec-haproxy" />
+        <module name="netty-codec-http" />
+        <module name="netty-codec-socks" />
+        <module name="netty-common" />
+        <module name="netty-example" />
+        <module name="netty-handler" />
+        <module name="netty-microbench" />
+        <module name="netty-testsuite" />
+        <module name="netty-testsuite-osgi" />
+        <module name="netty-transport" />
+        <module name="netty-transport-rxtx" />
+        <module name="netty-transport-sctp" />
+        <module name="netty-transport-udt" />
+        <module name="springaopdemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cachecloud-jedis" target="1.7" />
+      <module name="cachecloud-open-client" target="1.7" />
+      <module name="cachecloud-open-client-basic" target="1.7" />
+      <module name="cachecloud-open-client-redis" target="1.7" />
+      <module name="cachecloud-open-common" target="1.7" />
+      <module name="cachecloud-open-jedis-stat" target="1.7" />
+      <module name="cachecloud-open-parent" target="1.7" />
+      <module name="cachecloud-open-web" target="1.7" />
+      <module name="client" target="1.5" />
+      <module name="clientdemo" target="1.5" />
+      <module name="cn-gateway" target="1.6" />
+      <module name="cngateway" target="1.6" />
+      <module name="demogate" target="1.5" />
+      <module name="distributedlock" target="1.5" />
+      <module name="dubbo-provider" target="1.7" />
+      <module name="gate-agent" target="1.8" />
+      <module name="gate-common" target="1.6" />
+      <module name="gate-demo" target="1.5" />
+      <module name="gate-demo-client" target="1.8" />
+      <module name="gate-demo-provider" target="1.6" />
+      <module name="gate-eureka" target="1.8" />
+      <module name="gateagent" target="1.6" />
+      <module name="gatecommon" target="1.6" />
+      <module name="gatedemo" target="1.5" />
+      <module name="gateeureka" target="1.6" />
+      <module name="gateway-demo" target="1.6" />
+      <module name="gateway-web" target="1.6" />
+      <module name="gatewaydemo" target="1.6" />
+      <module name="gatewayweb" target="1.6" />
+      <module name="netty-all" target="1.6" />
+      <module name="netty-buffer" target="1.6" />
+      <module name="netty-codec" target="1.6" />
+      <module name="netty-codec-haproxy" target="1.6" />
+      <module name="netty-codec-http" target="1.6" />
+      <module name="netty-codec-socks" target="1.6" />
+      <module name="netty-common" target="1.6" />
+      <module name="netty-example" target="1.6" />
+      <module name="netty-handler" target="1.6" />
+      <module name="netty-microbench" target="1.6" />
+      <module name="netty-parent" target="1.6" />
+      <module name="netty-tarball" target="1.6" />
+      <module name="netty-testsuite" target="1.6" />
+      <module name="netty-testsuite-osgi" target="1.6" />
+      <module name="netty-transport" target="1.6" />
+      <module name="netty-transport-rxtx" target="1.6" />
+      <module name="netty-transport-sctp" target="1.6" />
+      <module name="netty-transport-udt" target="1.6" />
+      <module name="spring-redis-aop" target="1.5" />
+      <module name="springaopdemo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

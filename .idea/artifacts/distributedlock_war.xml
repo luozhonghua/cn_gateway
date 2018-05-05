@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="distributedlock:war">
+    <output-path>$PROJECT_DIR$/../../../DistributedLock-master/target</output-path>
+    <root id="archive" name="distributedlock.war">
+      <element id="artifact" artifact-name="distributedlock:war exploded" />
+    </root>
+  </artifact>
+</component>

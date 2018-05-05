@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="distributedlock:war exploded">
+    <output-path>$PROJECT_DIR$/../../../DistributedLock-master/target/distributedlock</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="distributedlock" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: redis.clients:jedis:2.9.0" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.4.2" />
+          <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.9" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.6.1" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.16" />
+          <element id="library" level="project" name="Maven: jline:jline:0.9.94" />
+          <element id="library" level="project" name="Maven: io.netty:netty:3.10.5.Final" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../../DistributedLock-master/target/distributedlock/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="distributedlock/web/Web" />
+    </root>
+  </artifact>
+</component>

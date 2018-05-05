@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/cache_/spring-redis-aop2" charset="UTF-8" />
+    <file url="file://F:/cache/cachecloud-master" charset="UTF-8" />
+    <file url="file://F:/cache/cachecloud-master/cachecloud-open-client" charset="UTF-8" />
+    <file url="file://F:/cache/cachecloud-master/cachecloud-open-client/cachecloud-jedis" charset="UTF-8" />
+    <file url="file://F:/cache/cachecloud-master/cachecloud-open-client/cachecloud-open-client-basic" charset="UTF-8" />
+    <file url="file://F:/cache/cachecloud-master/cachecloud-open-client/cachecloud-open-client-redis" charset="UTF-8" />
+    <file url="file://F:/cache/cachecloud-master/cachecloud-open-client/cachecloud-open-jedis-stat" charset="UTF-8" />
+    <file url="file://F:/cache/cachecloud-master/cachecloud-open-common" charset="UTF-8" />
+    <file url="file://F:/cache/cachecloud-master/cachecloud-open-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gate-agent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gate-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gate-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-demo/gate-demo-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-demo/gate-demo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../dubbo/dubbo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../some_java_code-master/SpringAOPDemo" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/all" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/buffer" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/codec" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/codec-haproxy" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/codec-http" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/codec-socks" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/common" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/example" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/handler" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/microbench" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/tarball" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/testsuite" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/testsuite-osgi" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/transport" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/transport-rxtx" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/transport-sctp" charset="UTF-8" />
+    <file url="file://F:/netty/netty-netty-4.0.33.Final/transport-udt" charset="UTF-8" />
+  </component>
+</project>

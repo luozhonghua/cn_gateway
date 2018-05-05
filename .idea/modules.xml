@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cn-gateway.iml" filepath="$PROJECT_DIR$/cn-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../DistributedLock-master/distributedlock.iml" filepath="$PROJECT_DIR$/../../../DistributedLock-master/distributedlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../dubbo/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/../../../dubbo/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gate-agent/gate-agent.iml" filepath="$PROJECT_DIR$/gate-agent/gate-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gate-common/gate-common.iml" filepath="$PROJECT_DIR$/gate-common/gate-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-demo/gate-demo-client/gate-demo-client.iml" filepath="$PROJECT_DIR$/gateway-demo/gate-demo-client/gate-demo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-demo/gate-demo-provider/gate-demo-provider.iml" filepath="$PROJECT_DIR$/gateway-demo/gate-demo-provider/gate-demo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gate-eureka/gate-eureka.iml" filepath="$PROJECT_DIR$/gate-eureka/gate-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-demo/gateway-demo.iml" filepath="$PROJECT_DIR$/gateway-demo/gateway-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-web/gateway-web.iml" filepath="$PROJECT_DIR$/gateway-web/gateway-web.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/all/netty-all.iml" filepath="F:/netty/netty-netty-4.0.33.Final/all/netty-all.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/buffer/netty-buffer.iml" filepath="F:/netty/netty-netty-4.0.33.Final/buffer/netty-buffer.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/codec/netty-codec.iml" filepath="F:/netty/netty-netty-4.0.33.Final/codec/netty-codec.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/codec-haproxy/netty-codec-haproxy.iml" filepath="F:/netty/netty-netty-4.0.33.Final/codec-haproxy/netty-codec-haproxy.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/codec-http/netty-codec-http.iml" filepath="F:/netty/netty-netty-4.0.33.Final/codec-http/netty-codec-http.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/codec-socks/netty-codec-socks.iml" filepath="F:/netty/netty-netty-4.0.33.Final/codec-socks/netty-codec-socks.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/common/netty-common.iml" filepath="F:/netty/netty-netty-4.0.33.Final/common/netty-common.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/example/netty-example.iml" filepath="F:/netty/netty-netty-4.0.33.Final/example/netty-example.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/handler/netty-handler.iml" filepath="F:/netty/netty-netty-4.0.33.Final/handler/netty-handler.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/microbench/netty-microbench.iml" filepath="F:/netty/netty-netty-4.0.33.Final/microbench/netty-microbench.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/netty-parent.iml" filepath="F:/netty/netty-netty-4.0.33.Final/netty-parent.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/tarball/netty-tarball.iml" filepath="F:/netty/netty-netty-4.0.33.Final/tarball/netty-tarball.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/testsuite/netty-testsuite.iml" filepath="F:/netty/netty-netty-4.0.33.Final/testsuite/netty-testsuite.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/testsuite-osgi/netty-testsuite-osgi.iml" filepath="F:/netty/netty-netty-4.0.33.Final/testsuite-osgi/netty-testsuite-osgi.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/transport/netty-transport.iml" filepath="F:/netty/netty-netty-4.0.33.Final/transport/netty-transport.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/transport-rxtx/netty-transport-rxtx.iml" filepath="F:/netty/netty-netty-4.0.33.Final/transport-rxtx/netty-transport-rxtx.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/transport-sctp/netty-transport-sctp.iml" filepath="F:/netty/netty-netty-4.0.33.Final/transport-sctp/netty-transport-sctp.iml" />
+      <module fileurl="file://F:/netty/netty-netty-4.0.33.Final/transport-udt/netty-transport-udt.iml" filepath="F:/netty/netty-netty-4.0.33.Final/transport-udt/netty-transport-udt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../some_java_code-master/SpringAOPDemo/springaopdemo.iml" filepath="$PROJECT_DIR$/../../../some_java_code-master/SpringAOPDemo/springaopdemo.iml" />
+    </modules>
+  </component>
+</project>
